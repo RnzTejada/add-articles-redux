@@ -14,8 +14,8 @@ Template to work with :
 Clone this repository
 
 ```sh
-git clone https://github.com/RnzTejada/react-typescript-boilerplate.git
-cd react-typescript-boilerplate
+git clone https://github.com/RnzTejada/boilerplate-react-ts.git
+cd boilerplate-react-ts
 ```
 
 then
