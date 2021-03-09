@@ -1,24 +1,19 @@
-# BOILERPLATE REACT APP WITH TYPESCRIPT, ESLINT & PRETTIER
+# Los Rezagados - Redux study group
 
-This repository contains the eslint,prettier config of airbnb!
+Los rezagados surgen desde la iniciativa de [Reactivistas -Fec](https://frontend.cafe/reactivistas)
 
-Template to work with :
+Trabajaremos con :
 
 - React
-- Typescript
-- Eslint
-- Prettier
+- Redux
+- React hooks
 
 ### Installation
 
-Clone this repository
-
 ```sh
-git clone https://github.com/RnzTejada/boilerplate-react-ts.git
-cd boilerplate-react-ts
+git clone https://github.com/RnzTejada/fec-redux-study-group.git fec-redux
+cd fec-redux
 ```
-
-then
 
 ### npm
 
@@ -33,19 +28,3 @@ or
 ```sh
 yarn install && yarn start
 ```
-
-For production environments...
-
-```sh
-npm run isready
-```
-
-or
-
-```sh
-yarn isready
-```
-
-### Want to contribute? Great! Fork me!
-
-**Free Software, Hell Yeah!**
